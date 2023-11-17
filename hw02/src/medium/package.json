@@ -1,0 +1,14 @@
+{
+  "name": "d7ff06f1735856c6",
+  "main": "d7ff06f1735856c6@26.js",
+  "version": "26.0.0",
+  "homepage": "https://observablehq.com/d/d7ff06f1735856c6",
+  "author": {
+    "name": "卓亞璇's Workspace",
+    "url": "https://observablehq.com/@zhuo-ya-xuan-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
